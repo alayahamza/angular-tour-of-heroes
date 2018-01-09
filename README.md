@@ -29,3 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Associated Back-End : 
 
 <https://github.com/alayahamza/tour_of_heros>
+
+
+## [Demo](https://alayahamza.github.io/angular-tour-of-heroes/heroes)
